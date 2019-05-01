@@ -1,2 +1,0 @@
-# testVueJS
-Created with CodeSandbox
